@@ -1,0 +1,42 @@
+body {
+    background-color: #FFFFFF;
+}
+
+main {
+    background-color: greenyellow;
+    width:70%;
+    margin-top: 100px;
+    margin-left: 25%;
+}
+
+img {
+    width: 30%;
+    float: right;
+    margin-top: 70px;
+}
+
+div {
+    width: 50%;
+    text-align: left;
+}
+hr {
+    color: #E8E8E8;
+}
+
+h1 {
+    color: #CACBCB;
+    background-color: aqua;
+}
+
+.name {
+    float: left;
+    color: red;
+    background-color: black;
+    font-size: 30px;
+}
+
+p {
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15;
+}
